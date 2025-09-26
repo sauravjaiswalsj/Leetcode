@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
