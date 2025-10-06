@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
