@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0075-sort-colors) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
