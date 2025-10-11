@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
