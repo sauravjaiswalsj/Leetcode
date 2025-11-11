@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0014-longest-common-prefix) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0075-sort-colors) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
