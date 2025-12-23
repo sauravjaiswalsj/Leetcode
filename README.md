@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0881-boats-to-save-people) |
