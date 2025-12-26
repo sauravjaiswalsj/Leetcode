@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0705-design-hashset](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0705-design-hashset) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0705-design-hashset](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0705-design-hashset) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Bit Manipulation
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -154,4 +159,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0705-design-hashset) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
