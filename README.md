@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0189-rotate-array) |
+| [0264-ugly-number-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1013-fibonacci-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
