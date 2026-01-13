@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0268-missing-number) |
