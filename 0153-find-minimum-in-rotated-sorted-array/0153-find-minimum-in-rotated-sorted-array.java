@@ -1,21 +1,19 @@
 class Solution {
     public int findMin(int[] nums) {
-        int left=0,right=nums.length-1;
-        if(nums[left]<nums[right]){return nums[left];}
-        if(nums.length==1){return nums[left];}
-        while(left<right){
-            int inflectionPoint=(left+right)/2;
-            if(nums[inflectionPoint]>nums[inflectionPoint+1] && inflectionPoint<nums.length){
-                return nums[inflectionPoint+1];
-            }
-            if(nums[inflectionPoint]<nums[inflectionPoint-1] && inflectionPoint>0){
-                return nums[inflectionPoint];
-            }
-            if(nums[inflectionPoint]>nums[left]){
-                left=inflectionPoint+1;
-            }else{
-                right=inflectionPoint-1;
-            } 
+        int n = nums.length;
+        int low = 0, high = n - 1;
+        if (nums[low] <= nums[high])
+            return nums[low];
+
+        while (low <= high){
+            int mid = low + (high - low)/2;
+
+            if (nums[mid] < nums[(mid + 1) % n] && nums[mid] < nums[(mid + n - 1) % n])
+                return nums[mid];
+            if (nums[mid] < nums[high])
+                high = mid - 1;
+            else 
+                low = mid + 1;
         }
         return -1;
     }
