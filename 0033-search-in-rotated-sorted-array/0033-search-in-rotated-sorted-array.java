@@ -6,9 +6,7 @@ class Solution {
 
         int firstHalf = binSearch(nums, 0, pivot, target);
         int secondHalf = binSearch(nums, pivot, nums.length - 1, target);
-
-        System.out.println(pivot + " " + firstHalf + " " + secondHalf);
-
+        
         return (firstHalf != -1 ? firstHalf : secondHalf != -1 ? secondHalf : -1); 
     }
 
