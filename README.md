@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
