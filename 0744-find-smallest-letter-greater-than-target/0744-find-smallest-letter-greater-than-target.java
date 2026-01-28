@@ -8,10 +8,6 @@ class Solution {
             int mid = low + (high - low)/2;
 
             if (letters[mid] == target){
-                if (mid == n - 1 || letters[mid + 1] == target)
-                    c = letters[0];
-                else c = letters[mid + 1];
-
                 low = mid + 1;
             }
             
