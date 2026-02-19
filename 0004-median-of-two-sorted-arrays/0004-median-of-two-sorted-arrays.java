@@ -1,51 +1,38 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        // merge log(m+n)
-        int[] arr =  mergeArrays(nums1, nums2);
-        // get median 
-        int size = arr.length;
-        System.out.println(arr.length);
-        for (int i : arr){
-            System.out.println(i);
-        }
-        if ((arr.length & 1) != 0){
-            //odd
-            return arr[size/2];
-        }else{
-            int val = arr[size/2] + arr[size/2 - 1];
-            return val/2.0;
-        }
-    }
-    int[] mergeArrays(int[] nums1, int[] nums2){
-        int m = nums1.length;
-        int n = nums2.length;
-        int[] arr = new int[ m + n];
-
-        int i = 0, j = 0;
-        int k = 0, t = m + n;
-        while (i < m && j < n && k < t){
-            if (nums1[i] <= nums2[j]){
-                arr[k] = nums1[i];
-                k++;
-                i++;
-            }else {
-                arr[k] = nums2[j];
-                k++;
-                j++;
+        
+        if (nums1.length > nums2.length)
+            return findMedianSortedArrays(nums2, nums1);
+        
+        int x = nums1.length;
+        int y = nums2.length;
+        
+        int low = 0, high = x;
+        while (low <= high){
+            int Px = (low + high)/2;
+            int Py = (x+y+1)/2 - Px;
+            
+            // Now set boundaries
+            int maxLeftX = (Px == 0) ? Integer.MIN_VALUE : nums1[Px-1];
+            int minRightX = (Px == x) ? Integer.MAX_VALUE : nums1[Px];
+            
+            int maxLeftY = (Py == 0) ? Integer.MIN_VALUE: nums2[Py-1];
+            int minRightY = (Py == y) ? Integer.MAX_VALUE : nums2[Py];
+            
+            if (maxLeftX <= minRightY && maxLeftY <= minRightX){
+                //even
+                if (((x+y) & 1)== 0){
+                    return (double)(Math.max(maxLeftX, maxLeftY) + Math.min(minRightX, minRightY))/2.0;
+                }else{
+                    return (double)Math.max(maxLeftX, maxLeftY);
+                }
+            }
+            else if (maxLeftX > minRightY){ // Go left
+                high = Px - 1;
+            }else{
+                low = Px + 1;
             }
         }
-
-        while(i < m && k < t){
-            arr[k] = nums1[i];
-            i++;
-            k++;
-        }
-        while (j < n && k < t){
-            arr[k] = nums2[j];
-            j++;
-            k++;
-        }
-
-        return arr;
+        return 0.0;
     }
 }
