@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0724-find-pivot-index) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Math
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sauravjaiswalsj/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Bit Manipulation
 |  |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -228,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
