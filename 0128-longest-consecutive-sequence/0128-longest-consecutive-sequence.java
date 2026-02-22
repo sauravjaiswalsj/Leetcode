@@ -1,32 +1,42 @@
 class Solution {
-    public int longestConsecutive(int[] nums) {
+    public int longestConsecutive(int[] arr) {
+        if (arr == null || arr.length == 0)
+            return 0;
+        Map<Integer, Boolean> map = new TreeMap<>();
 
-        if (nums.length == 1)
-            return 1;
-        TreeMap<Integer, Integer> map = new TreeMap<>();
+        for (int i : arr){
+            map.putIfAbsent(i, true);
+        }
 
-        for (int i = 0; i < nums.length; i++){
-            if (map.containsKey(nums[i])){
-                map.put(nums[i], map.getOrDefault(nums[i], 0)+1);
+        int maxLen = 0, currLen = 1;
+        int lastElement = 0;
+        int i = 0;
+        for (Map.Entry<Integer, Boolean> entry : map.entrySet()){
+            if (i == 0){
+                lastElement = entry.getKey();
+                i++;
+                continue;
             }
-            else{
-                map.put(nums[i], 1);
+            int diff = Math.abs(entry.getKey() - lastElement);
+            //System.out.println(diff);
+            if (diff == 1 )
+                ++currLen;
+            
+            lastElement = entry.getKey();
+
+            if (diff > 1){
+                maxLen = Math.max(currLen, maxLen);
+                currLen = 1;
             }
         }
 
-
-        int maxLen = 0;
-        int runLen = 0;
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()){
-            if (map.containsKey(entry.getKey())){
-                ++runLen;
-                if (!map.containsKey(entry.getKey() -1)){
-                    runLen = 0;
-                }
-                maxLen = Math.max(runLen+1, maxLen);
-            }
-        }
-
-        return Math.max(runLen, maxLen);
+        return Math.max(maxLen, currLen);
     }
 }
+
+/*
+[1, 2, 3, 4, 100, 200]
+
+currLen = 1
+maxLen = 0
+*/
