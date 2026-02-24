@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sauravjaiswalsj/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sauravjaiswalsj/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sauravjaiswalsj/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sauravjaiswalsj/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Linked List
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sauravjaiswalsj/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Stack
 |  |
 | ------- |
