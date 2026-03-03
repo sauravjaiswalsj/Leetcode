@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0229-majority-element-ii) |
@@ -211,10 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0146-lru-cache) |
 | [0705-design-hashset](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0705-design-hashset) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0705-design-hashset) |
 ## Hash Function
@@ -274,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0200-number-of-islands) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
