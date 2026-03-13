@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0169-majority-element) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0242-valid-anagram) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0658-find-k-closest-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sauravjaiswalsj/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Union-Find
