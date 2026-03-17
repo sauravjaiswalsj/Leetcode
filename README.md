@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
