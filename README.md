@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0509-fibonacci-number) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0206-reverse-linked-list) |
