@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
