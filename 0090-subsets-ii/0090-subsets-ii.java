@@ -9,10 +9,10 @@ class Solution {
     }
 
     private void backtrack(int[] nums, int idx, ArrayList<Integer> out, List<List<Integer>> res){
-        if (!res.contains(out))
-            res.add(new ArrayList<>(out));
+        res.add(new ArrayList<>(out));
 
         for (int i = idx; i < nums.length; i++){
+            if (i != idx && nums[i] == nums[i-1]) continue;
             out.add(nums[i]);
             backtrack(nums, i+1, out, res);
             out.remove(out.size()-1);
