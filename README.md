@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
