@@ -8,24 +8,18 @@ class Solution {
     }
 
     private void backtrack(int[] nums, int target, int idx, int sum, List<List<Integer>> res, ArrayList<Integer> out){
-
-        if (idx == nums.length)
-            return;
-
         if (sum > target){
                 return;
         }
 
         if (sum == target){
-            if (!res.contains(out))
-                res.add(new ArrayList<Integer>(out));
+            res.add(new ArrayList<Integer>(out));
             return;
         }
 
         for (int i = idx; i < nums.length; i++){
-            System.out.println(sum);
-            sum += nums[i];
             out.add(nums[i]);
+            sum += nums[i];
             backtrack(nums, target, i, sum, res, out);
             out.remove(out.size()-1);
             sum -= nums[i];  
