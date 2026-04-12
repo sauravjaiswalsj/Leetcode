@@ -6,10 +6,10 @@ class Solution {
         for (char[] row : board) {
             Arrays.fill(row, '.');
         }
-        HashSet<Integer> cols = new HashSet<>();
-        HashSet<Integer> diag = new HashSet<>();
-        HashSet<Integer> adiag = new HashSet<>();
-        backtrack(board, 0, res, cols, diag, adiag);
+        boolean[] cols = new boolean[n];
+        boolean[] diag = new boolean[2*n];
+        boolean[] adiag = new boolean[2*n];
+        backtrack(board, 0, res, cols, diag, adiag, board.length);
         return res;
     }
 
@@ -17,9 +17,10 @@ class Solution {
         char[][] board, 
         int row, 
         List<List<String>> res,
-        HashSet<Integer> cols,
-        HashSet<Integer> diag,
-        HashSet<Integer> adiag
+        boolean[] cols,
+        boolean[] diag,
+        boolean[] adiag,
+        int n
     ){
         if (row == board.length){
             res.add(construct(board));
@@ -28,21 +29,21 @@ class Solution {
 
         for (int col = 0; col < board.length; col++){
             int di = row + col;
-            int adi = row - col;
-            if (cols.contains(col) || diag.contains(di) || adiag.contains(adi))
+            int adi = row - col + n; // accomodate -ve index
+            if (cols[col] || diag[di] || adiag[adi])
                 continue;
             
             board[row][col] = 'Q';
-            cols.add(col);
-            diag.add(di);
-            adiag.add(adi);
+            cols[col] = true;
+            diag[di] = true;
+            adiag[adi] = true;
 
-            backtrack(board, row+1, res, cols, diag, adiag);
+            backtrack(board, row+1, res, cols, diag, adiag, n);
 
            board[row][col] = '.';
-           cols.remove(col);
-           diag.remove(di);
-           adiag.remove(adi);
+           cols[col] = false;
+            diag[di] = false;
+            adiag[adi] = false;
         }
     }
 
