@@ -1,58 +1,79 @@
 class Solution {
-
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> res = new ArrayList<>();
-        int[] queens = new int[n]; // queens[row] = col
-        solve(n, 0, 0, 0, 0, queens, res);
+        
+        char[][] board = new char[n][n];
+        for (char[] row : board) {
+            Arrays.fill(row, '.');
+        }
+        HashSet<Integer> cols = new HashSet<>();
+        HashSet<Integer> diag = new HashSet<>();
+        HashSet<Integer> adiag = new HashSet<>();
+        backtrack(board, 0, res, cols, diag, adiag);
         return res;
     }
 
-    private void solve(int n, int row,
-                       int cols,
-                       int diag1,
-                       int diag2,
-                       int[] queens,
-                       List<List<String>> res) {
-
-        if (row == n) {
-            res.add(buildBoard(queens, n));
+    private void backtrack(
+        char[][] board, 
+        int row, 
+        List<List<String>> res,
+        HashSet<Integer> cols,
+        HashSet<Integer> diag,
+        HashSet<Integer> adiag
+    ){
+        if (row == board.length){
+            res.add(construct(board));
             return;
         }
 
-        int available = ((1 << n) - 1) & ~(cols | diag1 | diag2);
+        for (int col = 0; col < board.length; col++){
+            int di = row + col;
+            int adi = row - col;
+            if (cols.contains(col) || diag.contains(di) || adiag.contains(adi))
+                continue;
+            
+            board[row][col] = 'Q';
+            cols.add(col);
+            diag.add(di);
+            adiag.add(adi);
 
-        while (available != 0) {
+            backtrack(board, row+1, res, cols, diag, adiag);
 
-            int pos = available & -available; // pick rightmost bit
-            available -= pos;
-
-            int col = Integer.bitCount(pos - 1); 
-            // converts bit → column index
-
-            queens[row] = col;
-
-            solve(
-                n,
-                row + 1,
-                cols | pos,
-                (diag1 | pos) << 1,
-                (diag2 | pos) >> 1,
-                queens,
-                res
-            );
+           board[row][col] = '.';
+           cols.remove(col);
+           diag.remove(di);
+           adiag.remove(adi);
         }
     }
 
-    private List<String> buildBoard(int[] queens, int n) {
-        List<String> board = new ArrayList<>();
-
-        for (int r = 0; r < n; r++) {
-            char[] row = new char[n];
-            Arrays.fill(row, '.');
-            row[queens[r]] = 'Q';
-            board.add(new String(row));
+    private boolean isValid(char[][] board, int row, int col){
+        // check for col
+        int n = board.length;
+        for (int i = row-1; i >= 0; i--){
+            if (board[i][col] == 'Q')
+                return false;
         }
 
-        return board;
+        // check left diag row-1 & col -1
+        for (int i = row-1, j = col-1; i >=0 && j >=0; i--, j--){
+            if (board[i][j] == 'Q')
+                return false;
+        }
+
+        // check right diag row-1 & col -1
+        for (int i = row-1, j = col+1; i >=0 && j < n; i--, j++){
+            if (board[i][j] == 'Q')
+                return false;
+        }
+        return true;
+    }
+
+    private List<String> construct(char[][] board){
+        List<String> path = new ArrayList<>();
+
+        for (char[] row : board){
+            path.add(new String(row));
+        }
+        return path;
     }
 }
