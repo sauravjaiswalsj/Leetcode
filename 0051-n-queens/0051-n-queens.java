@@ -1,59 +1,58 @@
 class Solution {
+
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> res = new ArrayList<>();
-        
-        char[][] board = new char[n][n];
-        for (char[] row : board) {
-            Arrays.fill(row, '.');
-        }
-
-        backtrack(board, 0, res);
+        int[] queens = new int[n]; // queens[row] = col
+        solve(n, 0, 0, 0, 0, queens, res);
         return res;
     }
 
-    private void backtrack(char[][] board, int row, List<List<String>> res){
-        if (row == board.length){
-            res.add(construct(board));
+    private void solve(int n, int row,
+                       int cols,
+                       int diag1,
+                       int diag2,
+                       int[] queens,
+                       List<List<String>> res) {
+
+        if (row == n) {
+            res.add(buildBoard(queens, n));
             return;
         }
 
-        for (int col = 0; col < board.length; col++){
-            if (isValid(board, row, col)){
-                board[row][col] = 'Q';
-                backtrack(board, row+1, res);
-                board[row][col] = '.';
-            }
+        int available = ((1 << n) - 1) & ~(cols | diag1 | diag2);
+
+        while (available != 0) {
+
+            int pos = available & -available; // pick rightmost bit
+            available -= pos;
+
+            int col = Integer.bitCount(pos - 1); 
+            // converts bit → column index
+
+            queens[row] = col;
+
+            solve(
+                n,
+                row + 1,
+                cols | pos,
+                (diag1 | pos) << 1,
+                (diag2 | pos) >> 1,
+                queens,
+                res
+            );
         }
     }
 
-    private boolean isValid(char[][] board, int row, int col){
-        // check for col
-        int n = board.length;
-        for (int i = row-1; i >= 0; i--){
-            if (board[i][col] == 'Q')
-                return false;
+    private List<String> buildBoard(int[] queens, int n) {
+        List<String> board = new ArrayList<>();
+
+        for (int r = 0; r < n; r++) {
+            char[] row = new char[n];
+            Arrays.fill(row, '.');
+            row[queens[r]] = 'Q';
+            board.add(new String(row));
         }
 
-        // check left diag row-1 & col -1
-        for (int i = row-1, j = col-1; i >=0 && j >=0; i--, j--){
-            if (board[i][j] == 'Q')
-                return false;
-        }
-
-        // check right diag row-1 & col -1
-        for (int i = row-1, j = col+1; i >=0 && j < n; i--, j++){
-            if (board[i][j] == 'Q')
-                return false;
-        }
-        return true;
-    }
-
-    private List<String> construct(char[][] board){
-        List<String> path = new ArrayList<>();
-
-        for (char[] row : board){
-            path.add(new String(row));
-        }
-        return path;
+        return board;
     }
 }
