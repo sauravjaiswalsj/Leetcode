@@ -325,14 +325,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0547-number-of-provinces) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0547-number-of-provinces) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -375,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
