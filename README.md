@@ -217,10 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1603-design-parking-system](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0054-spiral-matrix) |
+| [1603-design-parking-system](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sauravjaiswalsj/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0705-design-hashset) |
+| [1603-design-parking-system](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1603-design-parking-system) |
 ## Hash Function
 |  |
 | ------- |
