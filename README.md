@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0881-boats-to-save-people](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1306-jump-game-iii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1306-jump-game-iii) |
 | [1470-shuffle-the-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -345,11 +346,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0547-number-of-provinces) |
+| [1306-jump-game-iii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0547-number-of-provinces) |
+| [1306-jump-game-iii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1306-jump-game-iii) |
 ## Doubly-Linked List
 |  |
 | ------- |
