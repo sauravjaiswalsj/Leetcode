@@ -1,53 +1,22 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        int n = board.length;
-        int m = board[0].length;
-        // validate rows
-        for (int row = 0; row < n; row++){
-            HashSet<Character> set = new HashSet<>();
-            for (int col = 0; col < m; col++){
-                if (board[row][col] == '.') continue;
-                if (set.contains(board[row][col]))
-                    return false;
-                else 
-                    set.add(board[row][col]);
-            }
-        }
+        Set<String> set = new HashSet<>();
 
-        // validate cols:
-        for (int col = 0; col < 9; col++){
-            HashSet<Character> set = new HashSet<>();
-            for (int row = 0; row < 9; row++){
-                if (board[row][col] == '.') continue;
-                if (set.contains(board[row][col]))
-                    return false;
-                else 
-                    set.add(board[row][col]);
-            }
-        }
+        for (int i = 0; i < 9; i++){
+            for (int j = 0; j < 9; j++){
+                if (board[i][j] =='.')
+                    continue;
+                
+                String row = board[i][j] + "_ROW_"+(i);
+                String col = board[i][j] + "COL"+(j);
+                String box = board[i][j] + "BOX"+(i/3) + "_"+(j/3);
 
-        // validate box
-
-        for (int sr = 0; sr < 9; sr += 3){
-            int er = sr + 3;
-            for (int sc = 0; sc < 9; sc += 3){
-                int ec = sc + 3;
-
-                if (!isValid(board, sr, er, sc, ec))
+                if (set.contains(row) || set.contains(col) || set.contains(box))
                     return false;
-            }
-        }
-        return true;
-    }
-    private boolean isValid(char[][] board, int sr, int er, int sc, int ec){
-        HashSet<Character> set = new HashSet<>();
-        for (int row = sr; row < er; row++){
-            for (int col = sc; col < ec; col++){
-                if (board[row][col] == '.') continue;
-                if (set.contains(board[row][col]))
-                    return false;
-                else 
-                    set.add(board[row][col]);
+
+                set.add(row);
+                set.add(col);
+                set.add(box);
             }
         }
         return true;
