@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0344-reverse-string) |
+| [0474-ones-and-zeroes](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Array
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0454-4sum-ii) |
+| [0474-ones-and-zeroes](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0474-ones-and-zeroes](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1013-fibonacci-number) |
 ## Counting
@@ -415,4 +418,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0547-number-of-provinces) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
