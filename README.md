@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1306-jump-game-iii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1306-jump-game-iii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Bit Manipulation
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1603-design-parking-system](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
