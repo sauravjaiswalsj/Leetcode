@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0053-maximum-subarray) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0070-climbing-stairs) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0200-number-of-islands) |
