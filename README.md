@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0547-number-of-provinces) |
 | [1306-jump-game-iii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1306-jump-game-iii) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0547-number-of-provinces) |
 | [1306-jump-game-iii](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1306-jump-game-iii) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Backtracking
 |  |
