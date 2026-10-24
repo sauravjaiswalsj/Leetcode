@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0344-reverse-string) |
 | [0474-ones-and-zeroes](https://github.com/sauravjaiswalsj/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sauravjaiswalsj/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/sauravjaiswalsj/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Array
 |  |
 | ------- |
